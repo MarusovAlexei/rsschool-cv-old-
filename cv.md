@@ -1,6 +1,6 @@
 # RS School CV
 
-![Alt-текст](img.jpg)
+![Alt-текст](assets/img/foto.jpg)
 
 ## **ALEXEI MARUSOV**
 
