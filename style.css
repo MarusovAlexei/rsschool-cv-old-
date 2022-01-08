@@ -79,7 +79,8 @@ a {
 .main-goals_container {
   display: flex;
   justify-content: center;
-  gap: 200px;
+  flex-wrap: wrap;
+  gap: 100px;
   margin-bottom: 40px;
 }
 
@@ -259,6 +260,7 @@ a {
 .main-contacts_container ul {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   gap: 80px;
 }
 
@@ -282,7 +284,8 @@ a {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  gap: 400px;
+  flex-wrap: wrap;
+  gap: 200px;
 }
 
 .footer_container img {
